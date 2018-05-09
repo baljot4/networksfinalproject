@@ -26,7 +26,5 @@
 * The rabbit server connection uses an `amqp_url` variable in `main.py`
 * The login database is currently hardcoded. So once you log in you remain logged in. 
 
-### TODO
-* Implement the room chat backlog `logger.py` to be able to get a history/backlog of messages
-* Integrate with a regular IRC server
-* An configuration system rather than hardcoding everything
+
+
