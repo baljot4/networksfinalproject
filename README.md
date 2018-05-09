@@ -21,7 +21,7 @@
 3. This will run the server on port 8888  (edit main.py if you want to change the port)
 4. Open up a browser to <http://localhost:8888/>
 
-### Trying to do:
+### What is being done:
 * The Server listening port is in `main.py`
 * The rabbit server connection uses an `amqp_url` variable in `main.py`
 * The login database is currently hardcoded. So once you log in you remain logged in. 
